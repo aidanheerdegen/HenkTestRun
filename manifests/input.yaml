@@ -1,0 +1,23 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/domain.pdf:
+  fullpath: /scratch/v45/nc3020/mom6/input/henk-layer2_tau1p0e-01/domain.pdf
+  hashes:
+    binhash: 64ad3258f614ca23859b940336df28c6
+    md5: b7ed095e0e86536c3eea40f5feaff9b7
+work/INPUT/driver-layers-topo-densities.nc:
+  fullpath: /scratch/v45/nc3020/mom6/input/henk-layer2_tau1p0e-01/driver-layers-topo-densities.nc
+  hashes:
+    binhash: 9e5382886aa2bcdaf5b11e457a480f01
+    md5: b97f6c4947e2c7788d268d774dcc7c87
+work/INPUT/windstress.nc:
+  fullpath: /scratch/v45/nc3020/mom6/input/henk-layer2_tau1p0e-01/windstress.nc
+  hashes:
+    binhash: cb5f460931978ee3cc0ceb36b3877026
+    md5: 5ca7408b17a704d312ecca2199f3922c
+work/INPUT/windstress.pdf:
+  fullpath: /scratch/v45/nc3020/mom6/input/henk-layer2_tau1p0e-01/windstress.pdf
+  hashes:
+    binhash: d2fa100b781e9090cdb4eb1dc13c18d0
+    md5: e0f249f6be9f7314156652b26df6a009

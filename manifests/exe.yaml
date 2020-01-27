@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/MOM6-25Jan2020:
+  fullpath: /scratch/v45/nc3020/mom6/bin/MOM6-25Jan2020
+  hashes:
+    binhash: e9514eafc4d4ccf8cbb50376848a6f68
+    md5: c605b76e73511e9be7db1546736a3d1c

@@ -1,0 +1,25 @@
+# Scheduler settings
+ncpus: 200
+walltime: 2:00:00
+runspersub: 1
+jobname: la2_t1e-1
+project: g40
+queue: express
+qsub_flags: -lother=hyperthread -W umask=027 -l storage=gdata/v45+scratch/v45+gdata/hh5
+
+# for normal
+platform:
+    nodesize: 48
+
+# Model settings
+model: mom6
+shortpath: /scratch/v45
+exe: MOM6-25Jan2020 
+input: henk-layer2_tau1p0e-01
+
+
+# Postprocessing
+collate: False
+userscripts:
+    archive: sync_output_to_gdata.sh
+
