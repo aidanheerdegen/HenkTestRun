@@ -37,9 +37,9 @@ WESTLON = -1600.0               !   [k] default = 0.0
                                 ! The western longitude of the domain or the equivalent
                                 ! starting value for the x-axis.
 
-LENLAT = 1600.0                 !   [k]
+LENLAT = 14400.0                 !   [k]
                                 ! The latitudinal or y-direction length of the domain.
-LENLON = 3200.0                 !   [k]
+LENLON = 2432.0                 !   [k]
                                 ! The longitudinal or x-direction length of the domain.
 
 ISOTROPIC = False                !   [Boolean] default = False
