@@ -37,9 +37,9 @@ WESTLON = -1600.0               !   [k] default = 0.0
                                 ! The western longitude of the domain or the equivalent
                                 ! starting value for the x-axis.
 
-LENLAT = 14400.0                 !   [k]
+LENLAT = 2432.0                 !   [k]
                                 ! The latitudinal or y-direction length of the domain.
-LENLON = 2432.0                 !   [k]
+LENLON = 14400.0                 !   [k]
                                 ! The longitudinal or x-direction length of the domain.
 
 ISOTROPIC = False                !   [Boolean] default = False
@@ -159,7 +159,7 @@ CDRAG = 0.003                   !   [nondim] default = 0.003
                                 ! the velocity field to the bottom stress. CDRAG is only
                                 ! used if BOTTOMDRAGLAW is defined.
 HBBL = 10.0             ! the thickness over which near-bottom velocities are averaged
-DRAG_BG_VEL = 0.1       ! an unresolved velocity that is combined with the resolved velocity 
+DRAG_BG_VEL = 0.0       ! an unresolved velocity that is combined with the resolved velocity 
                         ! to estimate the velocity magnitude
 BBL_USE_EOS = False      ! use the equation of state in determining the properties of the bottom boundary layer
 BBL_THICK_MIN = 0.1     ! the minimum bottom boundary layer thickness that can be used with BOTTOMDRAGLAW
