@@ -1,6 +1,6 @@
 # Scheduler settings
 ncpus: 1200
-walltime: 10:00:00
+walltime: 2:00:00
 runspersub: 50
 jobname: la2_t1e-1
 project: g40
