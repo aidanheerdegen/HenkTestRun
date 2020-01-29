@@ -3,9 +3,9 @@ ncpus: 1000
 walltime: 2:00:00
 runspersub: 50
 jobname: la2_t1e-1
-project: x77
+project: v45
 queue: express
-qsub_flags: -lother=hyperthread -W umask=027 -l storage=gdata/v45+scratch/v45+gdata/hh5
+qsub_flags: -l other=hyperthread -W umask=027 -l storage=gdata/v45+scratch/v45+gdata/hh5
 
 # for normal
 platform:
