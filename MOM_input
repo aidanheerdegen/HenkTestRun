@@ -59,7 +59,7 @@ REENTRANT_Y = False             !   [Boolean] default = False
                                 ! If true, the domain is meridionally reentrant.
  
 ! Vertical grid parameters
-MAXIMUM_DEPTH = 4000.0           ! maximum depth of ocean
+MAXIMUM_DEPTH = 5810.0           ! maximum depth of ocean
 MINIMUM_DEPTH = 1.0              ! anything shallower is assumed to be land
 COORD_CONFIG = "file"      ! use temperature and salinity profiles (read from COORD_FILE) to set layer densities.
 COORD_FILE = "driver-layers-topo-densities.nc"

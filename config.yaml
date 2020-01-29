@@ -15,7 +15,7 @@ platform:
 model: mom6
 shortpath: /scratch/v45
 exe: MOM6-25Jan2020 
-input: henk-layer2_tau1p0e-01
+input: henk-realistic-layer2_tau1p0e-01
 
 
 # Postprocessing
