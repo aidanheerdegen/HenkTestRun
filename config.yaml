@@ -20,6 +20,6 @@ input: henk-realistic-layer2_tau1p0e-01
 
 # Postprocessing
 collate: False
-userscripts:
-    archive: sync_output_to_gdata.sh
+#userscripts:
+#    archive: sync_output_to_gdata.sh
 
