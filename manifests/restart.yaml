@@ -2,17 +2,17 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/MOM.res.nc:
-  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart000/MOM.res.nc
+  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart001/MOM.res.nc
   hashes:
-    binhash: c58566bffbe4b28b26129b320750cbbf
-    md5: 337c17c8368985698ce4ba711b574aef
-work/INPUT/MOM.res_Y0002_D001_S00000.nc:
-  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart000/MOM.res_Y0002_D001_S00000.nc
+    binhash: 3340d9fe2982414b228c95418d6e1cb4
+    md5: fff22a3aced7468bcf2caaf8c8e1868e
+work/INPUT/MOM.res_Y0003_D001_S00000.nc:
+  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart001/MOM.res_Y0003_D001_S00000.nc
   hashes:
-    binhash: 78a27ffc91c526fb8e4928e5cc4ca9b4
-    md5: 8c878cf95cee0e5836704c0a203dd1c7
+    binhash: 074a71e097e291af43df09a14cd44921
+    md5: 4c047284341bc7d5775bd96dccc978ac
 work/INPUT/ocean_solo.res:
-  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart000/ocean_solo.res
+  fullpath: /scratch/v45/nc3020/mom6/archive/HenkTestRun/restart001/ocean_solo.res
   hashes:
-    binhash: b7b62ccf4f051e58997c7e5019742945
-    md5: 30fba08623f7e0d543a89f0c9053b089
+    binhash: a47faebd2a3a6e4e38f4b7488ba0477b
+    md5: 63bccf399448e1ae2f5df2649e7189d8
