@@ -1,5 +1,5 @@
 # Scheduler settings
-ncpus: 1200
+ncpus: 400
 walltime: 2:00:00
 runspersub: 50
 jobname: la2_t1e-1

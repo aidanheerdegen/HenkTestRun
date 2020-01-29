@@ -1,8 +1,8 @@
 "Navid Channel"
 1 1 1 0 0 0
 
-"prog",     15, "days",  1, "days", "Time",
-"prog_ave", 15, "days",  1, "days", "Time",
+"prog",     5, "days",  1, "days", "Time",
+"prog_ave", 5, "days",  1, "days", "Time",
 
 # Instantaneous diagnostics
 "ocean_model","u",   "u",   "prog","all",.false.,"none",2
