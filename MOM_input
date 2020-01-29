@@ -3,7 +3,7 @@ NIHALO = 3         ! size of the memory halos on each side
 NJHALO = 3
 NIGLOBAL = 3600     ! grid points in the zonal directions of the physical domain
 NJGLOBAL = 608     ! grid points in the meridional directions of the physical domain
-LAYOUT = 20, 20   
+LAYOUT = 50, 20   
 IO_LAYOUT = 1, 1
 
 NK = 2            ! number of vertical layers
