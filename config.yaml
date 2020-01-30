@@ -14,8 +14,8 @@ platform:
 # Model settings
 model: mom6
 shortpath: /scratch/v45
-exe: MOM6-25Jan2020 
-input: henk-realistic-layer2_tau1p0e-01
+exe: /scratch/v45/nc3020/mom6/bin/MOM6-25Jan2020
+input: /scratch/v45/nc3020/mom6/input/henk-realistic-layer2_tau1p0e-01
 
 
 # Postprocessing
@@ -23,3 +23,7 @@ collate: False
 #userscripts:
 #    archive: sync_output_to_gdata.sh
 
+reproduce:
+        scaninputs: False
+        input: True
+        exe: True
