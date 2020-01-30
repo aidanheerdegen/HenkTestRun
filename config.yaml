@@ -26,4 +26,4 @@ collate: False
 reproduce:
         scaninputs: False
         input: True
-        exe: True
+        # exe: True
