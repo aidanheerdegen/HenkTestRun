@@ -30,4 +30,4 @@ reproduce:
         #
 mpi:
     flags: -v
-    runcmd: 'env; mpiruncmd'
+    runcmd: mpiexec
