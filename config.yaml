@@ -27,3 +27,6 @@ reproduce:
         scaninputs: False
         input: True
         # exe: True
+        #
+mpi:
+    flags: -v
