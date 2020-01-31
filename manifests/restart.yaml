@@ -1,3 +1,13 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/INPUT/MOM.res.nc:
+  fullpath: /scratch/v45/aph502/mom6/archive/HenkTestRun/restart000/MOM.res.nc
+  hashes:
+    binhash: 5779fd096587411948522cd3daa2aa1b
+    md5: 39ec0784c9aeb8ea9fac3e3de7f7012a
+work/INPUT/ocean_solo.res:
+  fullpath: /scratch/v45/aph502/mom6/archive/HenkTestRun/restart000/ocean_solo.res
+  hashes:
+    binhash: d5fc0d9c1ad836e5c4442b6fdf5c1a88
+    md5: 7c6ad046755cec0ab291d2b7ca93acda
