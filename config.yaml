@@ -1,7 +1,7 @@
 # Scheduler settings
 ncpus: 1000
 walltime: 2:00:00
-runspersub: 50
+# runspersub: 50
 jobname: la2_t1e-1
 project: v45
 queue: express
