@@ -5,7 +5,7 @@ walltime: 2:00:00
 jobname: la2_t1e-1
 project: v45
 queue: express
-qsub_flags: -W umask=027 # -l storage=gdata/v45+scratch/v45+gdata/hh5
+qsub_flags: -W umask=027 -l storage=gdata/v45+scratch/v45+gdata/hh5
 
 # for normal
 platform:
